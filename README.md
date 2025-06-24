@@ -4,8 +4,8 @@ Spring Boot-CRUD-API-Application
   	Built with Spring Boot and Spring Web
   	RESTful API architecture
   	CRUD operations on Employee entity
-  	Integrated with Spring Data JPA and H2/MySQL
-  	JSON-based request/response using Jackson
+  	Integrated with Spring Data JPA and MySQL
+  	JSON-based request/response 
  Additional Functionalities:
   	Bulk Employee Input: Accept a list of employees and save all at once
   	Count Employees: Endpoint to get the total number of employees

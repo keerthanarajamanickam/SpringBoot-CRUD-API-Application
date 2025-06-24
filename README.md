@@ -1,5 +1,5 @@
 Spring Boot-CRUD-API-Application
-   This is a simple CRUD (Create, Read, Update, Delete) RESTful API built using Spring Boot, demonstrating basic operations on an Employee entity using standard HTTP methods.
+   This is a CRUD (Create, Read, Update, Delete) RESTful API built using Spring Boot, demonstrating basic operations on an Employee entity using standard HTTP methods.
  Features:
   	Built with Spring Boot and Spring Web
   	RESTful API architecture
